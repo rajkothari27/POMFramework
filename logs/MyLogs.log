@@ -1,0 +1,62 @@
+[INFO ] 2021-04-30 12:34:45.892 [main] TopNavTest - starting browser =  chrome
+[INFO ] 2021-04-30 12:35:00.079 [main] TopNavTest - checking support link
+[INFO ] 2021-04-30 12:35:03.378 [main] TopNav - Current window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:03.649 [main] TopNav - Next Window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:03.657 [main] TopNav - Current window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:04.255 [main] TopNav - Next Window : Zoom Help Center
+[INFO ] 2021-04-30 12:35:04.417 [main] TopNav - parent window :  Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:04.438 [main] TopNavTest - checking resource drop down menu , opening links on same tab 
+[INFO ] 2021-04-30 12:35:51.044 [main] TopNav - Current window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:51.099 [main] TopNav - Next Window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:51.128 [main] TopNav - Current window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:51.321 [main] TopNav - Next Window : Virtual Backgrounds | Zoom
+[INFO ] 2021-04-30 12:35:51.457 [main] TopNav - parent window :  Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:51.464 [main] TopNavTest - checking resource drop down menu , opening links in new tab 
+[INFO ] 2021-04-30 12:35:57.870 [main] TopNav - Current window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:57.891 [main] TopNav - Next Window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:35:57.907 [main] TopNav - Current window : Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:36:00.987 [main] TopNav - Next Window : Zoom | Support during the COVID-19 pandemic
+[INFO ] 2021-04-30 12:36:00.998 [main] TopNav - Current window : Zoom | Support during the COVID-19 pandemic
+[INFO ] 2021-04-30 12:36:03.753 [main] TopNav - Next Window : Virtual Backgrounds | Zoom
+[INFO ] 2021-04-30 12:36:03.759 [main] TopNav - Current window : Virtual Backgrounds | Zoom
+[INFO ] 2021-04-30 12:36:04.913 [main] TopNav - Next Window : Zoom Trust Center
+[INFO ] 2021-04-30 12:36:04.920 [main] TopNav - Current window : Zoom Trust Center
+[INFO ] 2021-04-30 12:36:05.864 [main] TopNav - Next Window : Frequently asked questions – Zoom Help Center
+[INFO ] 2021-04-30 12:36:05.869 [main] TopNav - Current window : Frequently asked questions – Zoom Help Center
+[INFO ] 2021-04-30 12:36:06.185 [main] TopNav - Next Window : Zoom Blog
+[INFO ] 2021-04-30 12:36:06.194 [main] TopNav - Current window : Zoom Blog
+[INFO ] 2021-04-30 12:36:09.013 [main] TopNav - Next Window : Events - Zoom
+[INFO ] 2021-04-30 12:36:09.018 [main] TopNav - Current window : Events - Zoom
+[INFO ] 2021-04-30 12:36:09.418 [main] TopNav - Next Window : Live training webinars – Zoom Help Center
+[INFO ] 2021-04-30 12:36:09.425 [main] TopNav - Current window : Live training webinars – Zoom Help Center
+[INFO ] 2021-04-30 12:36:09.701 [main] TopNav - Next Window : Zoom video tutorials – Zoom Help Center
+[INFO ] 2021-04-30 12:36:09.707 [main] TopNav - Current window : Zoom video tutorials – Zoom Help Center
+[INFO ] 2021-04-30 12:36:09.889 [main] TopNav - Next Window : Download Center - Zoom
+[INFO ] 2021-04-30 12:36:11.163 [main] TopNav - parent window :  Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+[INFO ] 2021-04-30 12:36:11.168 [main] TopNavTest - checking contact alert
+[INFO ] 2021-04-30 12:36:11.551 [main] TopNavTest - checking resource link text 
+[INFO ] 2021-04-30 12:36:11.747 [main] TopNav - Actual text : Download Zoom Client
+[INFO ] 2021-04-30 12:36:11.748 [main] TopNav - Link text   : Download Zoom Client
+[INFO ] 2021-04-30 12:36:11.930 [main] TopNav - Actual text : Video Tutorials
+[INFO ] 2021-04-30 12:36:11.931 [main] TopNav - Link text   : Video Tutorials
+[INFO ] 2021-04-30 12:36:12.096 [main] TopNav - Actual text : Live Training
+[INFO ] 2021-04-30 12:36:12.096 [main] TopNav - Link text   : Live Training
+[INFO ] 2021-04-30 12:36:12.262 [main] TopNav - Actual text : Webinars and Events
+[INFO ] 2021-04-30 12:36:12.263 [main] TopNav - Link text   : Webinars and Events
+[INFO ] 2021-04-30 12:36:12.427 [main] TopNav - Actual text : Zoom Blog
+[INFO ] 2021-04-30 12:36:12.427 [main] TopNav - Link text   : Zoom Blog
+[INFO ] 2021-04-30 12:36:12.605 [main] TopNav - Actual text : FAQ
+[INFO ] 2021-04-30 12:36:12.606 [main] TopNav - Link text   : FAQ
+[INFO ] 2021-04-30 12:36:12.780 [main] TopNav - Actual text : Privacy and Security
+[INFO ] 2021-04-30 12:36:12.780 [main] TopNav - Link text   : Privacy and Security
+[INFO ] 2021-04-30 12:36:12.942 [main] TopNav - Actual text : Zoom Virtual Backgrounds
+[INFO ] 2021-04-30 12:36:12.942 [main] TopNav - Link text   : Zoom Virtual Backgrounds
+[INFO ] 2021-04-30 12:36:13.100 [main] TopNav - Actual text : COVID-19 Resources
+[INFO ] 2021-04-30 12:36:13.100 [main] TopNav - Link text   : COVID-19 Resources
+[INFO ] 2021-04-30 12:36:13.115 [main] TopNavTest - checking demo form by sending keys
+[INFO ] 2021-04-30 12:36:34.281 [main] TopNavTest - checking demo form by data provider
+[INFO ] 2021-04-30 12:36:52.332 [main] TopNavTest - checking demo form by data provider
+[INFO ] 2021-04-30 12:37:11.238 [main] TopNavTest - checking demo form by data provider
+[INFO ] 2021-04-30 12:37:30.492 [main] TopNavTest - checking demo form by data provider
+[INFO ] 2021-04-30 12:37:47.653 [main] TopNavTest - checking demo form by data provider
+[INFO ] 2021-04-30 12:38:04.483 [main] TopNavTest - checking demo form by data provider
